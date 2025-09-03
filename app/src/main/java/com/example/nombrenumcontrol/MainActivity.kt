@@ -99,6 +99,7 @@ fun GreetingText(message: String, from:String, modifier: Modifier){
             fontSize = 110.sp,
             lineHeight = 120.sp,
             color = androidx.compose.ui.graphics.Color.Cyan
+
         )
         Text(
             text = from,
